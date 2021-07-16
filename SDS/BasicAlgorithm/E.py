@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/1103
+#백준 1103번 게임(DP,DFS)
 import sys
 input = sys.stdin.readline
 sys.setrecursionlimit(10**6)

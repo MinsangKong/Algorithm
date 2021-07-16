@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/1039
+#백준 1039번 교환(백트래킹, 구현)
 import sys
 input = sys.stdin.readline
 from collections import deque

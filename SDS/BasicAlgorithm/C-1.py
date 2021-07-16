@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/1062
+#백준 1062번 가르침(그리디,조합)
 import sys
 input = sys.stdin.readline
 from itertools import combinations

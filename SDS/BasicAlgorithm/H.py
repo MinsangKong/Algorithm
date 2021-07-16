@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/9663
+#백준 9663번 N-Queen(DFS, 백트래킹)
 import sys
 input = sys.stdin.readline
 

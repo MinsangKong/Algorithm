@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/1920
+#백준 1920번 수 찾기(그리디,dict)
 import sys
 input = sys.stdin.readline
 

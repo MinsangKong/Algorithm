@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/1713
+#백준 1713번 후보 추천하기(그리디, 구현)
 import sys
 input = sys.stdin.readline
 def check_graph():

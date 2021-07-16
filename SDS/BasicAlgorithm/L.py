@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/15686
+#백준 15686번 치킨 배달(구현, 순열)
 import sys
 input = sys.stdin.readline
 from itertools import permutations
