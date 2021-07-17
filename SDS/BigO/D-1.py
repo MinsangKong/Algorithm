@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/2517
+#백준 2517번 달리기(세그먼트 트리,팬윅트리)
 import sys
 input = sys.stdin.readline
 

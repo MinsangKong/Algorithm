@@ -1,5 +1,6 @@
+#https://www.acmicpc.net/problem/2096
+#백준 2096번 내려가기(DP)
 import sys
-
 input = sys.stdin.readline
 
 N = int(input())

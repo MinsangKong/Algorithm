@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/2143
+#백준 2143번 두 배열의 합(그리디,dict)
 import sys
 input = sys.stdin.readline
 from collections import defaultdict

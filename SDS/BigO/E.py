@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/1806
+#백준 1806번 부분합 (투 포인터)
 import sys
 input = sys.stdin.readline
 
@@ -9,7 +11,7 @@ l = 0
 r = 1
 total = nums[0]
 
-while l < r and r <= n:
+while l < r :
     if total >= s:
         length = min(length,r-l)
         total -= nums[l]

@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/2805
+#백준 2805번 나무 자르기(이분탐색)
 import sys
 input = sys.stdin.readline
 

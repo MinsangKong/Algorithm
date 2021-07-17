@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/2003
+#백준 2003번 수들의 합 2 (투 포인터)
 n, m = map(int, input().split()) 
 arr = list(map(int, input().split())) 
 cnt = 0 

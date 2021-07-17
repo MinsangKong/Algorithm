@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/1072
+#백준 1072번 게임 1072번 (이분탐색)
 x, y = map(int, input().split())
 z = int(y*100/x)
 W = 1000000000
