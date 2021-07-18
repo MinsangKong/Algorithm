@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/2014
+#백준 2014번 소수의 곱(자료구조)
 import sys
 input = sys.stdin.readline
 import heapq

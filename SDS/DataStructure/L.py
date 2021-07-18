@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/1655
+#백준 1655번 가운데를 말해요(자료구조)
 import sys
 input = sys.stdin.readline
 import heapq

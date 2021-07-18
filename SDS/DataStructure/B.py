@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/10845
+#백준 10845번 큐(자료구조)
 import sys
 input = sys.stdin.readline
 from collections import deque

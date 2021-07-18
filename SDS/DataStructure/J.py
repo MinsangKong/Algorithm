@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/1927
+#백준 1927번 최소 힙(자료구조)
 import sys
 input = sys.stdin.readline
 import heapq

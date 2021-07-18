@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/10828
+#백준 10828번 스택(자료구조)
 import sys
 input = sys.stdin.readline
 

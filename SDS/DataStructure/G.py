@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/5639
+#백준 5639번 이진 검색 트리(자료구조)
 import sys 
 
 def postorderset(preorder, left, right): 

@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/2504
+#백준 2504번 괄호의 값(문자열)
 import sys
 input = sys.stdin.readline
 s = input().rstrip()
@@ -20,7 +22,7 @@ for i in s:
                 exit(0)
             else:
                 last+=int(top)
- 
+
     elif i == ']':
         last = 0
         while len(stack) != 0:

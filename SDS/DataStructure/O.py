@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/3020
+#백준 3020번 개똥벌레(구현)
 import sys
 input = sys.stdin.readline
 n, h = map(int, input().split())

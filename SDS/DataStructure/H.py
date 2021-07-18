@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/4358
+#백준 4358번 생태학(자료구조)
 import sys
 
 book = dict()
